@@ -1,0 +1,490 @@
+=== OMNIBUS SYSTEM CONVERGENCE TRACE: ALPHANUMERIC EXTENSION-FREE ENGINE ===
+TIMESTAMP_UTC : Fri Jun 12 11:36:03 UTC 2026
+NODE_ORIGIN   : NODE:90247_GARDENA
+OPERATOR      : Enrique Barrera Gonzalez III
+----------------------------------------------------------------------
+[*] Initiating absolute system root (/) alphanumeric crawling loop...
+[MATCH] Discovered alpha-numeric asset signature: audit.log at /logs/audit.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: debug_run.log at /logs/debug_run.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: omnibus_master_sanity.log at /tmp/omnibus_master_sanity.log
+        [ERROR] Kernel permission constraints restricted processing for /tmp/omnibus_master_sanity.log
+[MATCH] Discovered alpha-numeric asset signature: wolverine_manifest_sweep_20260612_033129.log at /tmp/wolverine_manifest_sweep_20260612_033129.log
+        [ERROR] Kernel permission constraints restricted processing for /tmp/wolverine_manifest_sweep_20260612_033129.log
+[MATCH] Discovered alpha-numeric asset signature: wolverine_manifest_sweep_20260612_032531.log at /tmp/wolverine_manifest_sweep_20260612_032531.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wolverine_manifest_sweep_20260612_032032.log at /tmp/wolverine_manifest_sweep_20260612_032032.log
+        [ERROR] Kernel permission constraints restricted processing for /tmp/wolverine_manifest_sweep_20260612_032032.log
+[MATCH] Discovered alpha-numeric asset signature: wolverine_manifest_sweep_20260612_030334.log at /tmp/wolverine_manifest_sweep_20260612_030334.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wolverine_20260612_030125.log at /tmp/wolverine_20260612_030125.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wolverine_20260612_025911.log at /tmp/wolverine_20260612_025911.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: HKCU_snapshot_20260612_024616.log at /tmp/HKCU_snapshot_20260612_024616.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: HKCU_integrity_20260612_024455.log at /tmp/HKCU_integrity_20260612_024455.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: HKCU_integrity_20260612_024347.log at /tmp/HKCU_integrity_20260612_024347.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/manifest.json
+        [ERROR] Kernel permission constraints restricted processing for /home/manifest.json
+[MATCH] Discovered alpha-numeric asset signature: Win32CampaignIds.dat at /home/enrique/vault/AppData/Local/Publishers/8wekyb3d8bbwe/MicrosoftStore/Win32CampaignIds.dat
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: Settings.dat at /home/enrique/vault/AppData/Local/Publishers/8wekyb3d8bbwe/MicrosoftStore/Settings.dat
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: SynchronizedSettings.dat at /home/enrique/vault/AppData/Local/Publishers/8wekyb3d8bbwe/MicrosoftStore/SynchronizedSettings.dat
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-15064.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-15064.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-12996.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-12996.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wct1346.tmp at /home/enrique/vault/AppData/Local/Temp/wct1346.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-15088.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-15088.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-21532.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-21532.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-31936.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-31936.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-22252.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-22252.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-6516.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-6516.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-30128.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-30128.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wct901A.tmp at /home/enrique/vault/AppData/Local/Temp/wct901A.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-27312.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-27312.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-15172.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-15172.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-9532.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-9532.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-14892.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-14892.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-1068.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-1068.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-13576.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-13576.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-6744.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-6744.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-13528.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-13528.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-10140.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-10140.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wct73E9.tmp at /home/enrique/vault/AppData/Local/Temp/wct73E9.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: gemini-code-1779876459476.json at /home/enrique/vault/AppData/Local/Temp/MicrosoftEdgeDownloads/12da18e6-f26b-435b-9a57-72423d7009cf/gemini-code-1779876459476.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-15536.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-15536.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-6304.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-6304.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-4980.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-4980.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-11584.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-11584.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-9520.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-9520.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-18936.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-18936.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-11216.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-11216.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wctE071.tmp at /home/enrique/vault/AppData/Local/Temp/wctE071.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-16496.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-16496.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wctF3FD.tmp at /home/enrique/vault/AppData/Local/Temp/wctF3FD.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-29776.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-29776.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wctC6EA.tmp at /home/enrique/vault/AppData/Local/Temp/wctC6EA.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-3996.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-3996.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wct7BA7.tmp at /home/enrique/vault/AppData/Local/Temp/wct7BA7.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-15048.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-15048.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-11692.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-11692.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-6772.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-6772.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-11976.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-11976.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-3536.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-3536.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-13480.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-13480.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wct631C.tmp at /home/enrique/vault/AppData/Local/Temp/wct631C.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-6928.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-6928.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779144460824445000_81413D83-BAD9-42C1-BF00-6852089931AD.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779144460824445000_81413D83-BAD9-42C1-BF00-6852089931AD.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779429750524623400_52DE19ED-9CF0-45A5-B332-70D6AB937EF8.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779429750524623400_52DE19ED-9CF0-45A5-B332-70D6AB937EF8.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779876717138242900_6271BD7C-F685-4006-A208-D4E1C3917FD4.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779876717138242900_6271BD7C-F685-4006-A208-D4E1C3917FD4.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779210371901372400_9F6450FA-17A2-4852-BA1E-DFC239624922.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779210371901372400_9F6450FA-17A2-4852-BA1E-DFC239624922.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1778401924975278200_678B150E-4675-4B56-8E72-AE4E78101F5D.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1778401924975278200_678B150E-4675-4B56-8E72-AE4E78101F5D.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779416753632160500_2DE4541A-A2CF-49F0-A43B-2D0BDB8900B3.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779416753632160500_2DE4541A-A2CF-49F0-A43B-2D0BDB8900B3.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779144460812972000_007CDFC1-ABED-4648-A79E-5EB8516932BF.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779144460812972000_007CDFC1-ABED-4648-A79E-5EB8516932BF.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1778531974365215700_E3105C53-F1DD-43BE-93F0-B3CBBB8976A6.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1778531974365215700_E3105C53-F1DD-43BE-93F0-B3CBBB8976A6.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1778042371058714800_10E98421-5846-43EC-83BE-975921B82624.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1778042371058714800_10E98421-5846-43EC-83BE-975921B82624.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779876804742933400_023A8946-93C3-4DDF-AC28-6775CCDC93F6.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779876804742933400_023A8946-93C3-4DDF-AC28-6775CCDC93F6.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1778401924973496100_A6C02C93-10DB-4983-B230-0E6DE504226B.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1778401924973496100_A6C02C93-10DB-4983-B230-0E6DE504226B.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1778998415532674700_6F383D39-329A-4AF7-82D1-2D3EB7292141.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1778998415532674700_6F383D39-329A-4AF7-82D1-2D3EB7292141.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1778401924976423000_A6C02C93-10DB-4983-B230-0E6DE504226B.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1778401924976423000_A6C02C93-10DB-4983-B230-0E6DE504226B.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779877005288846900_A866AB0D-1D9C-4B28-9949-E2C7F26CAA2E.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779877005288846900_A866AB0D-1D9C-4B28-9949-E2C7F26CAA2E.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1778998415538637700_6F383D39-329A-4AF7-82D1-2D3EB7292141.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1778998415538637700_6F383D39-329A-4AF7-82D1-2D3EB7292141.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779429750533864700_52DE19ED-9CF0-45A5-B332-70D6AB937EF8.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779429750533864700_52DE19ED-9CF0-45A5-B332-70D6AB937EF8.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1778401924976597800_678B150E-4675-4B56-8E72-AE4E78101F5D.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1778401924976597800_678B150E-4675-4B56-8E72-AE4E78101F5D.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779666171108436900_78326E84-42D4-4C72-8CA6-41B753A43D35.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779666171108436900_78326E84-42D4-4C72-8CA6-41B753A43D35.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779666413779145800_4DC4512E-4614-4160-97EB-B5D0F4E4A186.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779666413779145800_4DC4512E-4614-4160-97EB-B5D0F4E4A186.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779667425200784100_C269C55F-A0CD-4F6A-B061-FB92F129D36A.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779667425200784100_C269C55F-A0CD-4F6A-B061-FB92F129D36A.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779144460830412200_007CDFC1-ABED-4648-A79E-5EB8516932BF.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779144460830412200_007CDFC1-ABED-4648-A79E-5EB8516932BF.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1778228829708345800_B7BC5B68-E757-4A8B-B2F9-4F2605D5A15B.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1778228829708345800_B7BC5B68-E757-4A8B-B2F9-4F2605D5A15B.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779876717151179300_6271BD7C-F685-4006-A208-D4E1C3917FD4.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779876717151179300_6271BD7C-F685-4006-A208-D4E1C3917FD4.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779210371910616500_9F6450FA-17A2-4852-BA1E-DFC239624922.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779210371910616500_9F6450FA-17A2-4852-BA1E-DFC239624922.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779429586097374500_602B105E-52CA-4B5F-A613-CE0C10495E21.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779429586097374500_602B105E-52CA-4B5F-A613-CE0C10495E21.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779144460826634100_81413D83-BAD9-42C1-BF00-6852089931AD.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779144460826634100_81413D83-BAD9-42C1-BF00-6852089931AD.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779318014172998800_DAC4D06C-B716-4BA9-B01E-AB37D023C1CC.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779318014172998800_DAC4D06C-B716-4BA9-B01E-AB37D023C1CC.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1778731156824716300_9C64D607-E539-4F89-8D4D-98669A367EFC.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1778731156824716300_9C64D607-E539-4F89-8D4D-98669A367EFC.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779416753643841000_2DE4541A-A2CF-49F0-A43B-2D0BDB8900B3.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779416753643841000_2DE4541A-A2CF-49F0-A43B-2D0BDB8900B3.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1779876804746379700_023A8946-93C3-4DDF-AC28-6775CCDC93F6.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1779876804746379700_023A8946-93C3-4DDF-AC28-6775CCDC93F6.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Additional1778531974371488200_E3105C53-F1DD-43BE-93F0-B3CBBB8976A6.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Additional/Additional1778531974371488200_E3105C53-F1DD-43BE-93F0-B3CBBB8976A6.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779666171089036700_78326E84-42D4-4C72-8CA6-41B753A43D35.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779666171089036700_78326E84-42D4-4C72-8CA6-41B753A43D35.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779429586084171500_602B105E-52CA-4B5F-A613-CE0C10495E21.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779429586084171500_602B105E-52CA-4B5F-A613-CE0C10495E21.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779877005284258300_A866AB0D-1D9C-4B28-9949-E2C7F26CAA2E.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779877005284258300_A866AB0D-1D9C-4B28-9949-E2C7F26CAA2E.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779666413770990700_4DC4512E-4614-4160-97EB-B5D0F4E4A186.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779666413770990700_4DC4512E-4614-4160-97EB-B5D0F4E4A186.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779667425194163200_C269C55F-A0CD-4F6A-B061-FB92F129D36A.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779667425194163200_C269C55F-A0CD-4F6A-B061-FB92F129D36A.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1779318014162079100_DAC4D06C-B716-4BA9-B01E-AB37D023C1CC.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1779318014162079100_DAC4D06C-B716-4BA9-B01E-AB37D023C1CC.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1778228829707104700_B7BC5B68-E757-4A8B-B2F9-4F2605D5A15B.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1778228829707104700_B7BC5B68-E757-4A8B-B2F9-4F2605D5A15B.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Primary1778731156818141600_9C64D607-E539-4F89-8D4D-98669A367EFC.log at /home/enrique/vault/AppData/Local/Temp/Diagnostics/WINWORD/Primary1778731156818141600_9C64D607-E539-4F89-8D4D-98669A367EFC.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-9740.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-9740.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-6396.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-6396.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-18624.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-18624.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-18392.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-18392.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-12420.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-12420.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-10456.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-10456.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-13628.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-13628.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wct7970.tmp at /home/enrique/vault/AppData/Local/Temp/wct7970.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-11056.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-11056.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: MicrosoftEdgeUpdate.log at /home/enrique/vault/AppData/Local/Temp/MicrosoftEdgeUpdate.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wctD766.tmp at /home/enrique/vault/AppData/Local/Temp/wctD766.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: wctB979.tmp at /home/enrique/vault/AppData/Local/Temp/wctB979.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-5224.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-5224.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-7092.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-7092.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-18380.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-18380.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wctC2D7.tmp at /home/enrique/vault/AppData/Local/Temp/wctC2D7.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-9396.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-9396.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-11388.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-11388.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wct7FD0.tmp at /home/enrique/vault/AppData/Local/Temp/wct7FD0.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-12772.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-12772.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-18152.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-18152.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wct8D2E.tmp at /home/enrique/vault/AppData/Local/Temp/wct8D2E.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-9744.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-9744.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-13540.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-13540.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-12844.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-12844.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wct6778.tmp at /home/enrique/vault/AppData/Local/Temp/wct6778.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-12620.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-12620.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-26080.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-26080.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-16724.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-16724.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-6284.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-6284.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-24520.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-24520.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: cv_debug.log at /home/enrique/vault/AppData/Local/Temp/cv_debug.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-18244.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-18244.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-16316.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-16316.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: wct25E5.tmp at /home/enrique/vault/AppData/Local/Temp/wct25E5.tmp
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: mat-debug-5156.log at /home/enrique/vault/AppData/Local/Temp/mat-debug-5156.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: settings.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: state.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/state.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: edb.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.ZuneVideo_8wekyb3d8bbwe/LocalState/Database/anonymous/edb.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: edbtmp.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.ZuneVideo_8wekyb3d8bbwe/LocalState/Database/anonymous/edbtmp.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: AppState.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.ZuneMusic_8wekyb3d8bbwe/LocalState/AppState.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: metadata.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/extensions_crx_cache/metadata.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: keys.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/TrustTokenKeyCommitments/2026.3.23.1/keys.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/TrustTokenKeyCommitments/2026.3.23.1/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: verified_contents.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/TrustTokenKeyCommitments/2026.3.23.1/_metadata/verified_contents.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/hyphen-data/120.0.6050.0/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: verified_contents.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/hyphen-data/120.0.6050.0/_metadata/verified_contents.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/OriginTrials/0.0.1.7/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Speech Recognition/1.15.0.1/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: customSettings_F95BA787499AB4FA9EFFF472CE383A14 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/SmartScreen/RemoteData/customSettings_F95BA787499AB4FA9EFFF472CE383A14
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: uriCache_ at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/SmartScreen/local/uriCache_
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: downloadCache_ at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/SmartScreen/local/downloadCache_
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: BrowsingTopicsState at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/BrowsingTopicsState
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: BookmarkMergedSurfaceOrdering at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/BookmarkMergedSurfaceOrdering
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/shared_proto_db/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/shared_proto_db/metadata/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/WebStorage/1/IndexedDB/indexeddb.leveldb/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Sync Data/LevelDB/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: favorites_diagnostic.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/favorites_diagnostic.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: f_00003c at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Cache/Cache_Data/f_00003c
+        [ERROR] Kernel permission constraints restricted processing for /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Cache/Cache_Data/f_00003c
+[MATCH] Discovered alpha-numeric asset signature: f_00002e at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Cache/Cache_Data/f_00002e
+        [ERROR] Kernel permission constraints restricted processing for /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Cache/Cache_Data/f_00002e
+[MATCH] Discovered alpha-numeric asset signature: f_00002a at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Cache/Cache_Data/f_00002a
+        [ERROR] Kernel permission constraints restricted processing for /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Cache/Cache_Data/f_00002a
+[MATCH] Discovered alpha-numeric asset signature: f_000029 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Cache/Cache_Data/f_000029
+        [ERROR] Kernel permission constraints restricted processing for /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Cache/Cache_Data/f_000029
+[MATCH] Discovered alpha-numeric asset signature: f_000028 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Cache/Cache_Data/f_000028
+        [ERROR] Kernel permission constraints restricted processing for /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Cache/Cache_Data/f_000028
+[MATCH] Discovered alpha-numeric asset signature: f_00002c at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Cache/Cache_Data/f_00002c
+        [ERROR] Kernel permission constraints restricted processing for /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Cache/Cache_Data/f_00002c
+[MATCH] Discovered alpha-numeric asset signature: Preferences at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Preferences
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Extension Rules/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Extension State/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000004.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Local Storage/leveldb/000004.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: TransportSecurity at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Network/TransportSecurity
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Session Storage/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Extension Scripts/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Service Worker/Database/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Default/Site Characteristics Database/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/CertificateRevocation/6498.2025.9.4/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/PKIMetadata/46.0.0.0/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/AutoLaunchProtocolsComponent/1.0.0.10/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: protocols.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/AutoLaunchProtocolsComponent/1.0.0.10/protocols.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: Variations at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/Variations
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: metadata.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/LocalState/EBWebView/component_crx_cache/metadata.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: a9890df0943d5ef5777335c73947d5d2fd3c7686.tbres at /home/enrique/vault/AppData/Local/Packages/Microsoft.XboxIdentityProvider_8wekyb3d8bbwe/AC/TokenBroker/Cache/a9890df0943d5ef5777335c73947d5d2fd3c7686.tbres
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: Msa30303033374646453536434141444631_PersistentEntitlementsCache.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/Msa30303033374646453536434141444631_PersistentEntitlementsCache.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 2574bd183ddcf77dad21d018b9483b4f4f5d6768.tbres at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/AC/TokenBroker/Cache/2574bd183ddcf77dad21d018b9483b4f4f5d6768.tbres
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: e8ddd4cbd9c0504aace6ef7a13fa20d04fd52408.tbres at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/AC/TokenBroker/Cache/e8ddd4cbd9c0504aace6ef7a13fa20d04fd52408.tbres
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 3f8b4bc191e895a9cf16b386e26b37eabaed73f6.tbres at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/AC/TokenBroker/Cache/3f8b4bc191e895a9cf16b386e26b37eabaed73f6.tbres
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 0202e06013efd372 at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/AC/Microsoft/OneAuth/accounts/0202e06013efd372
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalState/EBWebView/Default/shared_proto_db/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalState/EBWebView/Default/shared_proto_db/metadata/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalState/EBWebView/Default/Sync Data/LevelDB/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalState/EBWebView/Default/Extension Rules/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalState/EBWebView/Default/Extension State/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalState/EBWebView/Default/Local Storage/leveldb/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalState/EBWebView/Default/Extension Scripts/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalState/EBWebView/Default/Site Characteristics Database/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Variations at /home/enrique/vault/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalState/EBWebView/Variations
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: a885a57eecac4b01c3fc204f81a1da104c56b5bf.tbres at /home/enrique/vault/AppData/Local/Packages/Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe/AC/TokenBroker/Cache/a885a57eecac4b01c3fc204f81a1da104c56b5bf.tbres
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 72bc4bcbe36fe524e3e8b8d6c6d4136aa6e2af9b.tbres at /home/enrique/vault/AppData/Local/Packages/Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe/AC/TokenBroker/Cache/72bc4bcbe36fe524e3e8b8d6c6d4136aa6e2af9b.tbres
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: log-2026-05-16-14-28-57-7.txt at /home/enrique/vault/AppData/Local/Packages/Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe/LocalState/DiagOutputDir/log-2026-05-16-14-28-57-7.txt
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: sentinel.json at /home/enrique/vault/AppData/Local/Packages/Microsoft.OutlookForWindows_8wekyb3d8bbwe/LocalCache/sentinel.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: fde0a17cd681e0c3c874dcc0e6cd77f5b8a9877d.tbres at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/TokenBroker/Cache/fde0a17cd681e0c3c874dcc0e6cd77f5b8a9877d.tbres
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: e71e1300703d5395820e448840a760f0dd25ad50.tbres at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/TokenBroker/Cache/e71e1300703d5395820e448840a760f0dd25ad50.tbres
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 2c6e632ea3fc48ecbefda4802d13688e_1 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/280815/2c6e632ea3fc48ecbefda4802d13688e_1
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 03b371f976ea44f4a99f63ccb4bdd72b_1 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/88000045/03b371f976ea44f4a99f63ccb4bdd72b_1
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: c56608404dee47ae8d79d7375fb27b2c_1 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/310091/c56608404dee47ae8d79d7375fb27b2c_1
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 81aebe2cb11a43fb861b8412528a21e7_1 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/202914/81aebe2cb11a43fb861b8412528a21e7_1
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 0db2e5dd1ab04e4a9daaa47ec3afb182_6 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/338387/0db2e5dd1ab04e4a9daaa47ec3afb182_6
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: aa1f3d9026d74ca4a7c57ee9ad8e9cc4_5 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/338387/aa1f3d9026d74ca4a7c57ee9ad8e9cc4_5
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: c0d66ed36bbe4bc5a2e50a422ed7aa27_6 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/338387/c0d66ed36bbe4bc5a2e50a422ed7aa27_6
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: aa1f3d9026d74ca4a7c57ee9ad8e9cc4_6 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/338387/aa1f3d9026d74ca4a7c57ee9ad8e9cc4_6
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 0db2e5dd1ab04e4a9daaa47ec3afb182_5 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/338387/0db2e5dd1ab04e4a9daaa47ec3afb182_5
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: c0d66ed36bbe4bc5a2e50a422ed7aa27_5 at /home/enrique/vault/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/338387/c0d66ed36bbe4bc5a2e50a422ed7aa27_5
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: XboxGamingOverlayTraces_FT_Server_20260514235556.txt at /home/enrique/vault/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/XboxGamingOverlayTraces_FT_Server_20260514235556.txt
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: XboxGamingOverlayTraces_FT_Server_20260521183324.txt at /home/enrique/vault/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/XboxGamingOverlayTraces_FT_Server_20260521183324.txt
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: XboxGamingOverlayTraces_FT_Server_20260515180532.txt at /home/enrique/vault/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/XboxGamingOverlayTraces_FT_Server_20260515180532.txt
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: XboxGamingOverlayTraces_FT_Server_20260511103354.txt at /home/enrique/vault/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/XboxGamingOverlayTraces_FT_Server_20260511103354.txt
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 0202e06013efd372 at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalCache/Local/Microsoft/OneAuth/accounts/0202e06013efd372
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 0202e06013efd372_substrate_profile at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalCache/Local/Microsoft/OneAuth/blobs/0202e06013efd372_substrate_profile
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 0202e06013efd372_avatar_metadata at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalCache/Local/Microsoft/OneAuth/blobs/0202e06013efd372_avatar_metadata
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 0202e06013efd372_substrate_profile_metadata at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalCache/Local/Microsoft/OneAuth/blobs/0202e06013efd372_substrate_profile_metadata
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 9188040d-6c67-4c5b-b112-36a304b66dad_hrd_metadata at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalCache/Local/Microsoft/OneAuth/blobs/9188040d-6c67-4c5b-b112-36a304b66dad_hrd_metadata
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 9188040d-6c67-4c5b-b112-36a304b66dad_hrd at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalCache/Local/Microsoft/OneAuth/blobs/9188040d-6c67-4c5b-b112-36a304b66dad_hrd
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: IDX_CONTENT_TASKBARHEADLINES.json at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/DiagOutputDir/IDX_CONTENT_TASKBARHEADLINES.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: metadata.json at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/extensions_crx_cache/metadata.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: keys.json at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/TrustTokenKeyCommitments/2026.3.23.1/keys.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/TrustTokenKeyCommitments/2026.3.23.1/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: verified_contents.json at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/TrustTokenKeyCommitments/2026.3.23.1/_metadata/verified_contents.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/hyphen-data/120.0.6050.0/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: verified_contents.json at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/hyphen-data/120.0.6050.0/_metadata/verified_contents.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/OriginTrials/0.0.1.7/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: manifest.json at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/Speech Recognition/1.15.0.1/manifest.json
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: customSettings_F95BA787499AB4FA9EFFF472CE383A14 at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/SmartScreen/RemoteData/customSettings_F95BA787499AB4FA9EFFF472CE383A14
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: uriCache_ at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/SmartScreen/local/uriCache_
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: downloadCache_ at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/SmartScreen/local/downloadCache_
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: BrowsingTopicsState at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/Default/BrowsingTopicsState
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: BookmarkMergedSurfaceOrdering at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/Default/BookmarkMergedSurfaceOrdering
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/Default/shared_proto_db/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/Default/shared_proto_db/metadata/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/Default/Sync Data/LevelDB/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: favorites_diagnostic.log at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/Default/favorites_diagnostic.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: Preferences at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/Default/Preferences
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/VALEX_VAULT/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/Default/Extension Rules/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/
+[MATCH] Discovered alpha-numeric asset signature: 000003.log at /home/enrique/vault/AppData/Local/Packages/MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy/LocalState/EBWebView/Default/Extension State/000003.log
+        [SANITY CHECK PASSED] Successfully centralized and verified inside /home/olvi/telemetry_logs/

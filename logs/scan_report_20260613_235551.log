@@ -1,0 +1,638 @@
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Google/Chrome/User Data/component_crx_cache/934f00c9c52122a57372c7f213096594ebe2983dffbd877ab6884a5b57377573
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Google/Chrome/User Data/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/craw_background.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Google/Chrome/User Data/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/craw_window.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Google/Chrome/User Data/WasmTtsEngine/20260501.1/bindings_main.wasm
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Google/Chrome/User Data/ZxcvbnData/3/english_wikipedia.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Google/Chrome/User Data/ZxcvbnData/3/ranked_dicts
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Copilot/User Data/Default/Asset Store/assets.db/000003.ldb
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Copilot/User Data/Default/Asset Store/assets.db/000004.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Copilot/User Data/Default/Asset Store/assets.db/MANIFEST-000001
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Asset Store/assets.db/000003.ldb
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Asset Store/assets.db/000004.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Asset Store/assets.db/MANIFEST-000001
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Cache/Cache_Data/f_000709
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Code Cache/js/91e2c8b986c06e70_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Code Cache/js/ade1351505251136_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Code Cache/js/afad5aee6fe0bc7d_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/EntityExtraction/EntityExtractionAssetStore.db/000003.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Extensions/cgjgjfacjflmgphhhepmbhhbgjieaecn/135.0.3176.0_0/third_party/typescript/typescript.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Extensions/kfbdpdaobnofkbopebjglnaadopfikhh/113.0.1765.0_0/third_party/typescript/typescript.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Favicons
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/History
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/IndexedDB/devtools_devtools_0.indexeddb.blob/1/00/cb
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/IndexedDB/devtools_devtools_0.indexeddb.blob/1/01/1ba
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/IndexedDB/devtools_devtools_0.indexeddb.blob/1/03/34f
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/IndexedDB/devtools_devtools_0.indexeddb.blob/1/07/75a
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/IndexedDB/devtools_devtools_0.indexeddb.blob/1/07/76c
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/IndexedDB/devtools_devtools_0.indexeddb.blob/1/07/76f
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/IndexedDB/devtools_devtools_0.indexeddb.blob/1/08/889
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/IndexedDB/devtools_devtools_0.indexeddb.blob/1/08/88e
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/IndexedDB/devtools_devtools_0.indexeddb.blob/1/09/97e
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/IndexedDB/devtools_devtools_0.indexeddb.blob/1/09/97f
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/000041.ldb
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Network Action Predictor
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d689e998-5bbf-4fbf-a0f6-2cab57b41dd1/359e9757d7c96c39_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/437024b04f35b409591145618883e12d8287e1a1/bc61013e-c0a7-4e0b-abe4-ef81c519ac86/029fbd6af4281a25_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/437024b04f35b409591145618883e12d8287e1a1/bc61013e-c0a7-4e0b-abe4-ef81c519ac86/15e97acfd409177f_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/437024b04f35b409591145618883e12d8287e1a1/bc61013e-c0a7-4e0b-abe4-ef81c519ac86/dc69a44652fb9477_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/4b1672c4160530a5815fb2a4b0aa677381e91317/2928230b-1224-4ec3-adea-f4a0b8b3ce11/15a6a7c3f78f148b_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/0fef68d7-fb0f-45f4-b45e-f99accf84250/00ed50bdf5d221c4_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/0fef68d7-fb0f-45f4-b45e-f99accf84250/02db4a38e229a7ec_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/0fef68d7-fb0f-45f4-b45e-f99accf84250/568759e550a60d78_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/0fef68d7-fb0f-45f4-b45e-f99accf84250/757586ad26460b44_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/0fef68d7-fb0f-45f4-b45e-f99accf84250/b801751047a4a2a3_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/0fef68d7-fb0f-45f4-b45e-f99accf84250/c551a0e3f8ab1342_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bd1c4d03a881bd4b56183475e9bd7806830c983b/9326ede8-1889-47f6-b8cf-0e5a61fe64e3/2c87b3a27b2cf632_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bd1c4d03a881bd4b56183475e9bd7806830c983b/9326ede8-1889-47f6-b8cf-0e5a61fe64e3/42d822e44b8ac379_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bd1c4d03a881bd4b56183475e9bd7806830c983b/9326ede8-1889-47f6-b8cf-0e5a61fe64e3/5a2c3a83309936cd_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bd1c4d03a881bd4b56183475e9bd7806830c983b/9326ede8-1889-47f6-b8cf-0e5a61fe64e3/5b7a113163099f4e_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bd1c4d03a881bd4b56183475e9bd7806830c983b/9326ede8-1889-47f6-b8cf-0e5a61fe64e3/7a017cc90a6c7e32_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bd1c4d03a881bd4b56183475e9bd7806830c983b/9326ede8-1889-47f6-b8cf-0e5a61fe64e3/82a7af4a45d3864b_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bd1c4d03a881bd4b56183475e9bd7806830c983b/9326ede8-1889-47f6-b8cf-0e5a61fe64e3/88437ea734257321_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bd1c4d03a881bd4b56183475e9bd7806830c983b/9326ede8-1889-47f6-b8cf-0e5a61fe64e3/8906f873d91ba078_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bd1c4d03a881bd4b56183475e9bd7806830c983b/9326ede8-1889-47f6-b8cf-0e5a61fe64e3/a7cf842cba6147ea_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/0711aa9a3c4465de_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/0b1810b3a54ea36e_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/0fe4a818a2791f07_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/29094e46b1668bb9_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/41405b17ec459f18_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/6cb4f2867b4f34fd_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/75d59c687a820d04_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/7d4033790cc9a6d3_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/8e172117796ab989_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/8e9d30f800f198a0_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/9625ce135f5dc5ed_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/a64623b5331e15db_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/a71c110959762f7f_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/a7aeac8bcaca40f7_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/ad8d895daef2cb63_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/b128ef2a9f71bf77_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/b3f8b58190c8d660_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/e2e33a15c1e93ef3_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/e5df0fcab28c8c4f_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/ec66f0e0df2ca198_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/f14cd5daf0359cb4_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/f4b5385415ec9857_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/f7fddd729caf251e_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/fb014b778a808d7f_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/d78e1a2a-e8fa-4815-8642-27adc6393a1d/fc17797ed3e72721_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/c1eb0cde2406b6af565f825dcd492589d40ab644/012572bc-d31a-46c9-9194-cfba19187a51/eece593f4d0de2bc_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/d324cea85344c240641e02ac75d9ff5b961ca213/7b13d77d-6ac7-4d97-9bb2-f6bae1ef60ea/519bb9ec791007c0_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/d324cea85344c240641e02ac75d9ff5b961ca213/7b13d77d-6ac7-4d97-9bb2-f6bae1ef60ea/b9147eba27c18a72_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/Default/Shortcuts
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/ZxcvbnData/3.2.0.0/english_wikipedia.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Edge/User Data/ZxcvbnData/3.2.0.0/ranked_dicts
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/2bb6748e21e88854fb5d9686c0fee948/PackageResources/OfflineFiles/vendors~chatcore_5297077f3adbb7cac8343512f888c2ca.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/3a1716b9618d126c18cff54eb8a4f64b/PackageResources/OfflineFiles/power_automate_addin_e501361ef4c342c841309add94b60c6d.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/4f6d8f580886626ab43e2c22070dc5cf/PackageResources/OfflineFiles/main_7476d023449b3c8dde3c31c306feff63.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/6c16920870f3e0fc55f9a81b606bfbef/PackageResources/fluidhost/static/js/63347.84ccb67e.chunk.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/88725e66c396eedef7354d8875b3e91/PackageResources/OfflineFiles/player_b5e9fdbb19ce4ffefa0e324543b919008ab0eff2d14c0ed174c121c354100ccf.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/89cc1f13b3671ea7e915bc81ce2215c9/PackageResources/OfflineFiles/vendors~auth-msal-browser_f27d9ebce53f1881aaa2c9034e24fa1f.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/cc92af0b5b478f5eae89c794306c631/PackageResources/OfflineFiles/officeai_7a5a7d34c4dfb7192e1ed3db73defe18.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/17357-aa9cd2242de47dad.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/25629-d286feb0a641ce88.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/62820-d97129e74bd9c7f5.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/79946-ec20b050b9c66773.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/80981-71b63f554dab4a8a.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/90006-50f050c7c91cbde1.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/93424-bd817fc5277ee560.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/calling-electron-8b56c0d4158d6fd3.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/calling-pluginless-ca33aaf3b5f92694.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/calling-shell-56f05074e2363191.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/diagnostics-panel-renderer-88593fd945a4f57f.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/r_data-resolvers-search-suggestions-4aa969e7a0667f35.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Office/SolutionPackages/d12814e2f3db2209badcc4932b3d7064/PackageResources/OfflineFiles/services-implicit-contacts-7b87d2261daee273.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/002408.ldb
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/002409.ldb
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/002410.ldb
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/05868d283c20d5dc_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/090549375789dee4_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/0962d23c4e6fcad1_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/1176aae587b1e682_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/1da1e1bd0d36146d_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/1da1e1bd0d36146d_1
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/30c28793fabfffd1_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/460f77e32904f5de_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/4693bb7460f33398_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/56a2abd524b3dbc9_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/66e224012e9e31e4_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/91c565d61bce6178_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/Olk/EBWebView/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/d370b1a2-421d-490d-a843-24527ef1e3c6/98010a46d7eecc3c_0
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/OneDrive/26.063.0405.0002/OneDriveTelemetryExperimental.dll
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/Microsoft/OneDrive/26.063.0405.0002/Qt5PrintSupport.dll
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Local/wsl/{35a9ad6c-60b0-40b1-b7ec-66c7ab0e209e}/ext4.vhdx
+[FOUND] Potential infection in: /mnt/c/Users/enriq/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/ConsoleHost_history.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.bash_history
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.cache/trivy/db/trivy.db
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@isaacs/cliui/build/lib/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@one-ini/wasm/one_ini.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@pkgjs/parseargs/examples/is-default-value.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@pkgjs/parseargs/examples/limit-long-syntax.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@pkgjs/parseargs/examples/negate.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@pkgjs/parseargs/examples/no-repeated-options.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@pkgjs/parseargs/examples/simple-hard-coded.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@pkgjs/parseargs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@pkgjs/parseargs/internal/errors.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@pkgjs/parseargs/internal/primordials.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@pkgjs/parseargs/internal/util.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@pkgjs/parseargs/internal/validators.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/@pkgjs/parseargs/utils.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/abbrev/lib/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/ansi-regex/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/ansi-styles/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/balanced-match/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/brace-expansion/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/color-convert/conversions.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/color-convert/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/color-convert/route.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/color-name/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/commander/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/commander/lib/argument.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/commander/lib/command.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/commander/lib/error.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/commander/lib/help.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/commander/lib/option.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/commander/lib/suggestSimilar.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/config-chain/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/cross-spawn/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/cross-spawn/lib/enoent.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/cross-spawn/lib/parse.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/cross-spawn/lib/util/escape.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/cross-spawn/lib/util/readShebang.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/cross-spawn/lib/util/resolveCommand.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/eastasianwidth/eastasianwidth.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/editorconfig/lib/cli.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/editorconfig/lib/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/emoji-regex/es2015/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/emoji-regex/es2015/RGI_Emoji.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/emoji-regex/es2015/text.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/emoji-regex/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/emoji-regex/RGI_Emoji.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/emoji-regex/text.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/foreground-child/dist/commonjs/all-signals.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/foreground-child/dist/commonjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/foreground-child/dist/commonjs/proxy-signals.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/foreground-child/dist/commonjs/watchdog.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/foreground-child/dist/esm/all-signals.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/foreground-child/dist/esm/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/foreground-child/dist/esm/proxy-signals.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/foreground-child/dist/esm/watchdog.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/commonjs/glob.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/commonjs/has-magic.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/commonjs/ignore.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/commonjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/commonjs/pattern.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/commonjs/processor.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/commonjs/walker.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/esm/glob.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/esm/has-magic.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/esm/ignore.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/esm/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/esm/pattern.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/esm/processor.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/glob/dist/esm/walker.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/ini/ini.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/is-fullwidth-code-point/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/isexe/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/isexe/mode.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/isexe/test/basic.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/isexe/windows.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/jackspeak/dist/commonjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/jackspeak/dist/commonjs/parse-args.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/jackspeak/dist/esm/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/jackspeak/dist/esm/parse-args.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/lib/beautifier.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/lib/beautifier.min.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/lib/beautify-css.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/lib/beautify-html.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/lib/beautify.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/lib/unpackers/javascriptobfuscator_unpacker.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/lib/unpackers/myobfuscate_unpacker.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/lib/unpackers/p_a_c_k_e_r_unpacker.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/lib/unpackers/urlencode_unpacker.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/core/directives.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/core/inputscanner.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/core/options.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/core/output.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/core/pattern.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/core/templatablepattern.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/core/token.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/core/tokenizer.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/core/tokenstream.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/core/whitespacepattern.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/css/beautifier.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/css/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/css/options.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/css/tokenizer.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/html/beautifier.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/html/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/html/options.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/html/tokenizer.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/javascript/acorn.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/javascript/beautifier.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/javascript/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/javascript/options.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/javascript/tokenizer.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/unpackers/javascriptobfuscator_unpacker.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/unpackers/myobfuscate_unpacker.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/unpackers/p_a_c_k_e_r_unpacker.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-beautify/js/src/unpackers/urlencode_unpacker.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-cookie/dist/js.cookie.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-cookie/dist/js.cookie.min.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/js-cookie/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/lru-cache/dist/commonjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/lru-cache/dist/commonjs/index.min.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/lru-cache/dist/esm/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/lru-cache/dist/esm/index.min.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minimatch/dist/commonjs/assert-valid-pattern.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minimatch/dist/commonjs/ast.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minimatch/dist/commonjs/brace-expressions.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minimatch/dist/commonjs/escape.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minimatch/dist/commonjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minimatch/dist/commonjs/unescape.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minimatch/dist/esm/assert-valid-pattern.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minimatch/dist/esm/ast.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minimatch/dist/esm/brace-expressions.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minimatch/dist/esm/escape.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minimatch/dist/esm/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minimatch/dist/esm/unescape.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minipass/dist/commonjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/minipass/dist/esm/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/nopt/lib/debug.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/nopt/lib/nopt-lib.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/nopt/lib/nopt.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/nopt/lib/type-defs.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/package-json-from-dist/dist/commonjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/package-json-from-dist/dist/esm/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/path-key/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/path-scurry/dist/commonjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/path-scurry/dist/esm/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/proto-list/proto-list.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/proto-list/test/basic.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/classes/comparator.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/classes/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/classes/range.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/classes/semver.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/clean.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/cmp.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/coerce.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/compare-build.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/compare-loose.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/compare.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/diff.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/eq.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/gt.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/gte.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/inc.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/lt.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/lte.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/major.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/minor.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/neq.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/parse.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/patch.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/prerelease.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/rcompare.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/rsort.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/satisfies.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/sort.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/truncate.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/functions/valid.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/internal/constants.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/internal/debug.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/internal/identifiers.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/internal/lrucache.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/internal/parse-options.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/internal/re.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/preload.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/ranges/gtr.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/ranges/intersects.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/ranges/ltr.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/ranges/max-satisfying.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/ranges/min-satisfying.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/ranges/min-version.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/ranges/outside.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/ranges/simplify.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/ranges/subset.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/ranges/to-comparators.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/semver/ranges/valid.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/shebang-command/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/shebang-regex/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/signal-exit/dist/cjs/browser.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/signal-exit/dist/cjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/signal-exit/dist/cjs/signals.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/signal-exit/dist/mjs/browser.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/signal-exit/dist/mjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/signal-exit/dist/mjs/signals.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/string-width/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/string-width-cjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/string-width-cjs/node_modules/ansi-regex/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/string-width-cjs/node_modules/emoji-regex/es2015/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/string-width-cjs/node_modules/emoji-regex/es2015/text.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/string-width-cjs/node_modules/emoji-regex/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/string-width-cjs/node_modules/emoji-regex/text.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/string-width-cjs/node_modules/strip-ansi/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/strip-ansi/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/strip-ansi-cjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/strip-ansi-cjs/node_modules/ansi-regex/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/which/which.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/wrap-ansi/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/wrap-ansi-cjs/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/wrap-ansi-cjs/node_modules/ansi-regex/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/wrap-ansi-cjs/node_modules/ansi-styles/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/es2015/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/es2015/text.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/text.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/wrap-ansi-cjs/node_modules/string-width/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/.npm/_npx/82891d96cb46fed7/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/index.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/.nvm/test/install_script/nvm_detect_profile
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/scripts/1778699467949.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/scripts/append_entry.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/scripts/cbx_vault_deploy.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/core_engine/node_modules/caniuse-lite/data/features/web-app-manifest.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/data/AUDIT_COLLECTION/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/data/AUDIT_COLLECTION/VALEX_ABSOLUTE_MASTER_MANIFEST_20260515.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/data/AUDIT_COLLECTION/VALEX_ABSOLUTE_MASTER_MANIFEST_20260518.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/data/processed/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/logs/90247_VALEX_LEDGER.bak
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/logs/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/scripts/audit_ledger.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/scripts/automation/stage_disclosure.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/scripts/restore_from_manifest.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/TheFlay/08b_curl_replay_snippets.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/TheFlay/08c_node_replay.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/TheFlay/copilot-2026-05-09T05_56_00.429Z_restored.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/TheFlay/gemini-code-1778150771693.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/TheFlay/gemini-code-1778248354129.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/TheFlay/gemini-code-1778708446519.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/TheFlay/gtag.js PII Settings Explained - Google Gemini.html
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/TheFlay/one.google.com.har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/TheFlay/symm.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/TheFlay/Unconfirmed 45668.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/home/olvi/VALEX/TheFlay/Unconfirmed 987970.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/omnibus_py_convergence_20260612_120504.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/OMNIBUS_VAULT/cbx_hardening.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/OMNIBUS_VAULT/scripts/hardening.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/VALEX/Downloads/copilot-activity-history_restored.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/VALEX/Downloads/copilot-chat-activity_restored.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/VALEX/Downloads/gemini.google.com_Archive [26-05-09 16-41-29].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/VALEX/Downloads/gtag.js PII Settings Explained - Google Gemini.html
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/VALEX/Downloads/gtag.js PII Settings Explained - Google Gemini_restored.html
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/VALEX/Downloads/npss_9tdJq98UAZWJkmncHMBuno.br.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/VALEX/Downloads/Unconfirmed 45668.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/VALEX/Downloads/VM1755.devtools
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/VALEX/FlightHelpers.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/VALEX/generate_report.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/VALEX/New folder/lazysizes-5.3.min.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/V@l3x/VALEX/omnibus_audit_engine.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/archives/backups/duplicates_quarantine/90247_FORENSIC_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/archives/backups/duplicates_quarantine/90247_MASTER_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/archives/backups/duplicates_quarantine/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/archives/cold_storage/LEDGER_BACKUP_20260604/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/archives/cold_storage/LEDGER_BACKUP_20260604_060732/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/archives/cold_storage/LEDGER_BACKUP_20260604_061417/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/core_engine/node_modules/caniuse-lite/data/features/web-app-manifest.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/data/AUDIT_COLLECTION/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/data/AUDIT_COLLECTION/VALEX_ABSOLUTE_MASTER_MANIFEST_20260515.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/data/AUDIT_COLLECTION/VALEX_ABSOLUTE_MASTER_MANIFEST_20260518.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/data/processed/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/docs/TEXTFILES/DISCLOSURE_HASH.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/logs/90247_VALEX_LEDGER.bak
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/logs/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/02_PROCESSED_DATA/90247_MASTER_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/02_PROCESSED_DATA/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/90247_AUDIT/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/d/Obsidian_Vault_Backup/DISCLOSURE_PACKET/ATTESTATION_90247_GARDENA_20260508_055415.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/d/Obsidian_Vault_Backup/node_90247_disclosure/90247_ATTESTATION.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/d/Obsidian_Vault_Backup/OMNIBUS_DISCLOSURE_20260508_060327/ATTESTATION_90247_GARDENA_20260508_060327.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/d/Obsidian_Vault_Backup/OMNIBUS_DISCLOSURE_20260508_060533/ATTESTATION_90247_GARDENA_20260508_060533.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/d/Obsidian_Vault_Backup/OMNIBUS_LEDGER_90247_20260508_093817/ATTESTATION_FINAL_v165.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/DISCLOSURE_PACKET_90247-VNDR-SINGULARITY-20260511/90247_FORENSIC_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/DISCLOSURE_PACKET_90247-VNDR-SINGULARITY-20260511/90247_MASTER_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/logs/90247_VALEX_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/olvi/disclosure_staging/GOOGLE_HOSTS_SUMMARY.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/OMNIBUS_VAULT/2026-90247-CISA/90247_OMNIBUS_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/reports/90247_FORENSIC_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/reports/90247_MASTER_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/reports/DISCLOSURE_PACKET_90247-VNDR-SINGULARITY-20260511/90247_forensic_ledger.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/reports/DISCLOSURE_PACKET_90247-VNDR-SINGULARITY-20260511/90247_MASTER_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/reports/VALEX_ABSOLUTE_MASTER_MANIFEST_20260515.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/reports/VALEX_ABSOLUTE_MASTER_MANIFEST_20260518.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/reports/reports/VALEX_APEX_DISCLOSURE.asc
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/audit_ledger.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/Automate_omnibus.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/automation/build_omnibus.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/automation/g-osslseal.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/automation/install_omnibus_overwrite.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/automation/omnibus_audit.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/automation/omnibus_bootstrap.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/automation/omnibus_diff.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/automation/stage_disclosure.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/automation/TheKeyFlay.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/automation/verify_and_extract_key.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/B0mm.py
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/bootstrap.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/cauterize_endpoints.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/cbx_regex_purge.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/ci-verify-sri.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/CLEARBOX_SHIELD.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/clear_box_audio.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/compute-sri.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/compute_sri.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/cseeesv.py
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/diagnostic_logger.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/digest_events.py
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/disable_inheritance.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/dispatch_seal.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/fire_browser_traffic.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/full-setup.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/install_omnibus_suite.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/intialize_ascension.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/local-triage.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/logger_server.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/logger_server.py
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/marketo-submit.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/monitor.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/monitor_logs.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/newrelic-agent.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/omnibuc-checkgen.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/omnibus-init.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/omnibus_classifier.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/omnibus_daily_cleanup.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/omnibus_master_node.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/omnibus_sandbox_remediation.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/omnibus_server.py
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/omnibus_server_secure.py
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/omnibus_telemetry_scrubber.py
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/patch_v2_6_5.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/postcss.config.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/process_audio.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/quetzal_engine.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/radius-lockout-triage.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/restore_from_manifest.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/seal_and_transmit.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/secure_ingest_zips_all.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/secure_injection.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/security_patch.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/setup-tailwind.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/start_omnibus_server.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/sync_valex.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/tailwind.config.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/valex_scan.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/scripts/xipe_totec_flay.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/security/quarantine/QUARANTINE_LOCKED/VALEX_APEX_DISCLOSURE.asc
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/06122026.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/08a_waf_csp_sentry_validate.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/08b_curl_replay_snippets.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/08b_curl_replay_snippets_restored.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/08c_node_replay.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/10_TRANSMISSION_CHECKLIST.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/atomoscorch.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/CERT_IDENTITY_MUMMIFICATION_V18.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/copilot-2026-05-09T05_56_00.429Z_restored.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/copilot-2026-05-09T05_56_02.777Z.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/copilot-activity-history_restored.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/copilot-chat-activity.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/copilot-chat-activity_restored.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/gemini-code-1778150771693.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/gemini-code-1778248354129.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/gemini-code-1778261412364.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/gemini-code-1778699467949.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/gemini-code-1778708446519.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/gemini-code-1778964683765.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/gemini-code-1780136892687.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/gemini.google.com_Archive [26-05-09 16-41-29].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/gtag.js PII Settings Explained - Google Gemini.html
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/gtag.js PII Settings Explained - Google Gemini_restored.html
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/gtag.js PII Settings Explained - Google Gemini_restored.html.bak
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/one.google.com.har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/symm.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/symm1.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/Unconfirmed 45668.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/Unconfirmed 661985.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/Unconfirmed 770785.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/Unconfirmed 773242.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/Unconfirmed 987970.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/VM1755.devtools
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/www.coursera.org.har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/TheFlay/_c
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Desktop/VALEX/VALEX1/VALEX_MASTER_LEDGER.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/06042026..har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/06042026.har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/08a_waf_csp_sentry_validate.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/08a_waf_csp_sentry_validate_restored.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/08b_curl_replay_snippets.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/08b_curl_replay_snippets_restored.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/08c_node_replay.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/08c_node_replay_restored.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/10_TRANSMISSION_CHECKLIST.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/10_TRANSMISSION_CHECKLIST_restored.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/1755.1.devtools
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/accounts.google.com.har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/atomoscorch.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/ATTESTATION_90247_GARDENA_20260508_055415.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/CERT_IDENTITY_MUMMIFICATION_V18.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/copilot-2026-05-09T05_56_00.429Z.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/copilot-2026-05-09T05_56_00.429Z_restored.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/copilot-2026-05-09T05_56_02.777Z.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/copilot-2026-05-09T05_56_02.777Z_restored.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/copilot-activity-history (1).csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/copilot-activity-history.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/copilot-activity-history_restored.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/copilot-chat-activity.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/copilot-chat-activity_restored.csv
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/current_telemetry.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/eulers -1.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Extracted_html5926/gemini.google.com_Archive [26-05-09 16-41-29].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Extracted_html5926/NewFile
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Extracted_html5926/www.google.com_Archive [26-05-07 04-51-13].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1778150771693.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1778184589505.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1778244369475.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1778248354129.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1778261412364.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1778699467949.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1778708446519.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1778964661436.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1778964670509.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1778964683765.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1778964693973.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1780136892687.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1780348455095.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005270665.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005393953.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005400856.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005414981.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005421111.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005457063.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005470381.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005478612.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005496271.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005518964.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005535305.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005562087.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005657620.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005665640.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005694766.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005732813.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005920836.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005926231.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005962634.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781005987068.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781006004472.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781415925150.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini-code-1781419312854.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini.google.com_Archive [26-05-09 16-41-29].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini.google.com_Archive [26-06-06 20-24-17].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gemini.google.com_Archive [26-06-11 11-54-24].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gtag.js PII Settings Explained - Google Gemini.html
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gtag.js PII Settings Explained - Google Gemini.html.bak
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gtag.js PII Settings Explained - Google Gemini_restored.html
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/gtag.js PII Settings Explained - Google Gemini_restored.html.bak
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/landing-page-DPTw5rep.js
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/one.google.com.har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/sym.0.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/sym.1.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/symm.1.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/symm.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/symm1.sh
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 151875.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 27095.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 45668.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 457615.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 56138.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 57576.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 597625.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 661985.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 770785.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 773242.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 801656.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 828473.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 837135.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 875814.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/Unconfirmed 987970.crdownload
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/VM1755.devtools
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/www.coursera.org.har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/www.dhs.gov-1779210427397.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/www.google.com-1779567516874.log
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/www.google.com2.har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/www.google.com20.har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/www.google.com_Archive [26-05-07 04-51-13].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/www.google.com_Archive [26-05-09 18-40-22].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/www.google.com_Archive [26-05-12 20-14-01].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/www.google.com_Archive [26-06-09 04-06-43].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/www.marriott.com.har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/www.nist.gov_Archive [26-05-12 17-41-56].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/www.spacex.com_Archive [26-06-09 05-29-45].har
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Downloads/_c
+[FOUND] Potential infection in: /mnt/c/Users/enriq/file_digest_20260612_113909.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/file_digest_20260612_114443.txt
+[FOUND] Potential infection in: /mnt/c/Users/enriq/OneDrive/Desktop/ableton_live_lite_12.4_64/Ableton Live 12 Lite Installer-2.bin
+[FOUND] Potential infection in: /mnt/c/Users/enriq/OneDrive/Desktop/ableton_live_lite_12.4_64/Ableton Live 12 Lite Installer-3.bin
+[FOUND] Potential infection in: /mnt/c/Users/enriq/OneDrive/Desktop/Extracted_ableton_live_lite_12.4_64/Ableton Live 12 Lite Installer-2.bin
+[FOUND] Potential infection in: /mnt/c/Users/enriq/OneDrive/Desktop/Extracted_ableton_live_lite_12.4_64/Ableton Live 12 Lite Installer-3.bin
+[FOUND] Potential infection in: /mnt/c/Users/enriq/Videos/Screen Recordings/www.google.com_Archive [26-05-06 17-46-38].har

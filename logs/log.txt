@@ -1,0 +1,6 @@
+curl https://ENTER:443/wsman --insecure --user ENTER:ENTER --retry 1 --connect-timeout 180 -H 'Content-Type: application/soap+xml;charset=utf-8'  -d @./request-1.xml -o ./response-1.xml
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0           00:01              0  0      0   0      0   0      0      0      0           00:02              0  0      0   0      0   0      0      0      0           00:03              0  0      0   0      0   0      0      0      0           00:04              0  0      0   0      0   0      0      0      0           00:05              0  0      0   0      0   0      0      0      0           00:06              0  0      0   0      0   0      0      0      0           00:07              0  0      0   0      0   0      0      0      0           00:08              0  0      0   0      0   0      0      0      0           00:09              0curl: (6) Could not resolve host: ENTER
+Warning: Problem : timeout. Will retry in 1 second. 1 retry left.
+curl: (6) Could not resolve host: ENTER
